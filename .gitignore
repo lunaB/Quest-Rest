@@ -1,6 +1,10 @@
 # osx
 .DS_Store
 
+# env
+.env
+congif/index.js
+
 # Logs
 logs
 *.log
